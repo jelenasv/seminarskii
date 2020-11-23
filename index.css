@@ -1,0 +1,25 @@
+p {font-family : Verdana; color: rgb(255, 255, 255); margin-left: 270px;margin-right: 480px; font-size: 25px; text-align: left;}
+h2 {font-family : Verdana; color: rgb(255, 255, 255); margin-left: 270px; font-size: 40px;text-align: left;}
+h1{font-family: Verdana; color: white; font-size: 180px; margin-left: 150px; margin-right: auto;}
+
+ /* unvisited link */
+ a:link {
+    color: white;
+    position: fixed;
+    font-size: large;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: lightgoldenrodyellow;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  } 
